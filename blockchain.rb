@@ -25,7 +25,7 @@ require_relative 'block'					# class Block
 require_relative 'transaction'		# method Transactions
 
 LEDGER = []
-
+##HOLA
 #####
 ## Blockchain building, one block at a time.
 ##  This will create a first block with fake transactions
